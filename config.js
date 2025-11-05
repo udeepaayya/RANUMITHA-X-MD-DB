@@ -6,9 +6,9 @@ function convertToBool(text, fault = "true") {
   return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "uItzXTgB#d5YUlBlohlFosNN_eUYAXbuQcYVKDtkcgJYKwuTFm0k",
+SESSION_ID: process.env.SESSION_ID || "rY9kHQRS#f3UuXPfDWVP7EIgFcY6zC-mbme_vITh1_AHSkUkue3E",
 // add your Session Id (මුලට "ranu& keella oni naha")
-MONGODB: process.env.MONGODB || "mongodb://mongo:bGqezNHhlqiuAtcEornqgvwRRcXJdclS@crossover.proxy.rlwy.net:27565",
+MONGODB: process.env.MONGODB || "mongodb://mongo:YmAbEinfoCVprUaRwgCDJRxwMLDklZtm@turntable.proxy.rlwy.net:13928",
 // Enter your mongoDB public URL
 OWNER_NUM: process.env.OWNER_NUM || "94762095304",
 // add owner number 
